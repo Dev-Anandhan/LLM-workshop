@@ -2,7 +2,7 @@
 
 ## Executive Overview
 
-A **Privacy-Preserving Legal RAG (Retrieval-Augmented Generation) Compliance Engine** that scans uploaded legal documents against a structured Indian legal rules database, detects statutory violations with evidence-backed citations, and provides remediation steps — all grounded strictly in verifiable context to eliminate hallucinations.
+A **Privacy-Preserving Legal RAG (Retrieval-Augmented Generation) Compliance Engine** that scans uploaded legal documents against a structured Indian legal rules database, detects statutory violations with evidence-backed citations, and provides remediation steps — all grounded strictly in verifiable context to eliminate hallucinationsand detect legal documents for legit.
 
 ---
 
