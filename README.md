@@ -181,3 +181,6 @@ The inference engine operates under a rigid 7-step pipeline:
 | `GET` | `/analysis` | Returns the latest scan results (issues, metrics, severity) |
 | `POST` | `/ask` | Chat Q&A — retrieves relevant context and generates grounded response |
 | `GET` | `/health` | Health check |
+
+
+anna nee mass naaa
